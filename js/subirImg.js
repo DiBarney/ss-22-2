@@ -1,4 +1,3 @@
-var imgPrev = document.getElementById('imgPrev');
 var imgUploader = document.getElementById('imgUploader');
 
 imgUploader.addEventListener('change',(e)=>{
